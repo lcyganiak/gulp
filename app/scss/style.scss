@@ -1,0 +1,38 @@
+$colorBg: blue;
+@import 'setings';
+
+body {
+
+    background-color: $colorBg45;
+
+    nav {
+        div {
+            ul {
+                li {
+                    a {
+                        color: blanchedalmond;
+                    }
+                }
+
+            }
+
+            ol {
+                li {
+                    a {
+                        color: rgb(18, 39, 56);
+                    }
+                }
+            }
+        }
+    }
+
+    section {
+        resize: both;
+    }
+
+
+}
+
+body {
+    .fakafklfaks {}
+}
